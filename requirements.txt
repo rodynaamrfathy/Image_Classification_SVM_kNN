@@ -1,1 +1,5 @@
+pandas
+scikit-image
+numpy
+opencv-python
 keras-nightly
