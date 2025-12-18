@@ -1,0 +1,10 @@
+kagglehub
+pillow
+img2vec-pytorch
+scikit-learn
+joblib
+pandas
+scikit-image
+numpy
+opencv-python
+keras-nightly
