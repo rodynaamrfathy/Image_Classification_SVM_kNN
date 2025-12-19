@@ -10,7 +10,7 @@ import joblib
 # 1. Load features
 # =============================
 
-SAVE_DIR = "."
+SAVE_DIR = "models"
 X_PATH = os.path.join(SAVE_DIR, "features.npy")
 Y_PATH = os.path.join(SAVE_DIR, "labels.npy")
 
